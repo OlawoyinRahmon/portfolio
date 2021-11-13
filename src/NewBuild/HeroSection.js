@@ -46,6 +46,8 @@ justify-content: center;
 flex-wrap: wrap;
 align-items: center;
 padding-top: 40px;
+background-color: #9D50F6;
+background: linear-gradient(to left bottom, rgb(254, 243, 199), rgb(252, 211, 77), rgb(245, 158, 11)), 
 `;
 const Image = styled.img`
 width: 350px;
